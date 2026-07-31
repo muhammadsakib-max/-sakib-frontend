@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+
+.primary-color {
+  background: #1aa5db;
+  background: linear-gradient(
+    90deg,
+    rgba(26, 165, 219, 1) 0%,
+    rgba(140, 237, 224, 1) 100%
+  );
+}
